@@ -29,6 +29,10 @@ function App() {
         </button>
       </section>
 
+      <p>
+            sijan  <code>src/App.jsx</code> and save to test <code>HMR</code>
+          </p>
+
       <div className="ticks"></div>
 
       <section id="next-steps">
