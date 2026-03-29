@@ -25,13 +25,11 @@ function App() {
           className="counter"
           onClick={() => setCount((count) => count + 1)}
         >
-          Count is {count}
+          My name is OMPrakash {count}
         </button>
       </section>
 
-      <p>
-            sijan  <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
+     
 
       <div className="ticks"></div>
 
